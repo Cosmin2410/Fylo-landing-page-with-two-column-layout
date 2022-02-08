@@ -467,8 +467,9 @@ footer{
 
 
     .footer-nav{
-        display: inline-block;
+        display: block;
         margin-bottom: 2rem;
+        max-width: fit-content;
     }
 
     .footer-nav a{
